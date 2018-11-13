@@ -6,3 +6,9 @@ As queueing songs is not currently supported by the Spotify API, we can create a
 
 Initial steps:
 1. Getting interested people to join, tech stack discussion
+
+Possible Ideas:
+
+We could either build a web frontend for the voting or, to save effort on hosting and frontend design, we could build a Facebook Messenger Bot using [BootBot Framework](https://github.com/Charca/bootbot).
+
+We'd have to discuss which approach we prefer, and start creating issues in GitHub
